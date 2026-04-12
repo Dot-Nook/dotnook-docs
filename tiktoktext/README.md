@@ -2,8 +2,6 @@
 
 Recreate TikTok, Reels, Shorts and CapCut-style text directly in After Effects, with dynamic resizing multi-line text boxes using a single text and shape layer.
 
-From v2.1 onwards, an Essential Graphics template is included, allowing automated TikTok text creation in Premiere Pro.
-
 ## Styles
 
 TikTokText offers six styles:
@@ -26,3 +24,5 @@ TikTokText offers six styles:
 ## Installation
 
 See [Installing extensions](../installing-extensions.md).
+
+> **Note:** Due to some limitations with After Effects presets, TikTokText requires After Effects 2023 or newer.

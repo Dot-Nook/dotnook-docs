@@ -14,4 +14,5 @@ Square Peg uses native shape layers and Bézier curves, so projects stay fully s
 
 See [Installing extensions](../installing-extensions.md).
 
-> **Note:** Square Peg requires After Effects 2023 (v23) or newer.
+> **Note:** Due to some limitations with After Effects presets, Square Peg requires After Effects 2023 or newer.
+

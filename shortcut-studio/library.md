@@ -23,7 +23,3 @@ Every item is stored with the following metadata, all of which is searchable and
 - **Colour**: a colour applied to the icon for quick visual scanning
 - **Description**: freeform notes about what the item does
 - **Tags**: keywords used when searching the library
-
-## Portable library
-
-The library is portable. You can move it to Dropbox, iCloud Drive or any other synced folder and point Shortcut Studio at the new location on each machine. Every machine needs Shortcut Studio installed, but they can all share the same library by pointing at the same synced folder.

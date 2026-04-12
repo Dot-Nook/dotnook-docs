@@ -6,24 +6,20 @@ Shortcut Studio gives you one place to store, organise and instantly access your
 
 ## The panel
 
-The panel has four tabs across the top: **All**, **Expressions**, **Scripts**, **Presets**.
+The panel has four tabs:<br>**All**, **Expressions**, **Scripts**, **Presets**.
 
 - **All** shows every item across all types in a single view
 - The other three tabs filter to show only that item type
 
-Below the tabs: a search bar that searches item names and tags.
-
-Below the search bar, three controls:
+#### View options:
 
 - **View**: switch between Grid and List layout
 - **Show**: filter between All Items and Favourites
-- **Sort**: sort by Alphabet, Recently Used or Frequently Used
-
-The main area displays items as cards (Grid) or rows (List). Each item shows its name and icon.
+- **Sort**: sorty Alphabetically, by Recently Used or by Frequently Used
 
 ## Running an item
 
-Double-click any item to run it. For expressions, this applies the expression to selected layers. For scripts, this runs the script. For presets, this applies the preset.
+Double-click any item to run it. For expressions, this applies the expression to selected layer properties. For scripts, this runs the script. For presets, this applies the preset to selected layers.
 
 ## Item actions
 
@@ -31,16 +27,9 @@ In Grid view: right-click any item to access Edit, Favourite and Delete.
 
 In List view: inline buttons appear on each row for the same actions.
 
-## Zoom
-
-In Grid view, use the minus and plus buttons (bottom-left) to adjust card size.
-
 ## Adding items
 
 The blue add button (bottom-right) opens the Add Item panel.
-
-- In the **All** tab, clicking Add first asks you which type to add.
-- In the **Expressions**, **Scripts** or **Presets** tab, clicking Add opens that type's panel directly.
 
 The Add Item panel lets you set: name, icon, colour, description, search tags, and the item content. Expressions use a syntax-highlighted code editor. Scripts and presets use drag and drop.
 
@@ -48,7 +37,7 @@ See [Adding items](adding-items.md) for step-by-step instructions.
 
 ## Settings
 
-The folder icon (top-right of the panel) opens Settings, where you can change where your library is stored on disk. See [Settings](settings.md).
+The folder icon (top-right of the panel) opens Settings, where you can change where your library is stored on disk.
 
 ## First run
 

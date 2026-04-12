@@ -1,27 +1,14 @@
 # Adding items
 
-## Adding an expression
+## Adding an item
 
-1. Click the blue add button, or open the **Expressions** tab and click Add to go straight to the expression panel.
-2. Give your expression a name.
-3. Choose an icon and colour to identify it in the library.
-4. Add a description and any search tags.
-5. Paste or type your expression code into the editor.
+1. Give your expression a name.
+2. Choose an icon and colour to identify it in the library.
+3. Add a description and any search tags. Description appear inline in list view and on hover in grid view.
+4. Add any search tags to make it easier to find.
+5. For expressions: Paste or type your expression code into the editor.
+   <br>For scripts/presets: Drag and drop the file into the drop zone.
 6. Click Save.
-
-## Adding a script
-
-1. Click the blue add button, or open the **Scripts** tab and click Add.
-2. Give your script a name, icon, colour, description and tags.
-3. Drag and drop your `.jsx` or `.js` file into the file drop area.
-4. Click Save.
-
-## Adding a preset
-
-1. Click the blue add button, or open the **Presets** tab and click Add.
-2. Give your preset a name, icon, colour, description and tags.
-3. Drag and drop your `.ffx` file into the file drop area.
-4. Click Save.
 
 ## Editing an existing item
 
