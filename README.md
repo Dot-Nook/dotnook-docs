@@ -12,6 +12,7 @@ User guides for all dotnook After Effects tools.
 | [Variations](variations/README.md) | Resize. Retime. Relink. |
 | [TikTokText](tiktoktext/README.md) | TikTok look in After Effects. |
 | [Shortcut Studio](shortcut-studio/README.md) | Stop searching. Start creating. |
+| [D-Pad](d-pad/README.md) | Anchor. Align. Attach. |
 
 ## Installation
 
